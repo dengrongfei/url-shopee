@@ -4,17 +4,17 @@
     {
       "origin": "xiapi.xiapibuy.com/*",
       "target": "shopee.tw/",
-      "enable": true,
+      "enable": true
     },
     {
       "origin": "*.google.cn/*",
       "target": "*.google.com/",
-      "enable": true,
+      "enable": true
     },
      {
       "origin": "google.cn/*",
       "target": "google.com/",
-      "enable": true,
+      "enable": true
     }
   ]
 }
