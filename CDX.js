@@ -10,7 +10,7 @@
       "target": "shopee.tw/",
       "example": "",
       "enable": true,
-      "process": "",
+      "process": ""
     },
     {
       "description": "googlecntocom",
@@ -21,8 +21,8 @@
       "target": "*.google.com/",
       "example": "",
       "enable": true,
-      "process": "",
-    }
+      "process": ""
+    },
      {
       "description": "googlecn2",
       "origin": "google.cn/*",
@@ -32,7 +32,7 @@
       "target": "google.com/",
       "example": "",
       "enable": true,
-      "process": "",
+      "process": ""
     }
   ]
 }
