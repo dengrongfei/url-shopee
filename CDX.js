@@ -24,7 +24,7 @@
       "process": ""
     }
      {
-      "description": "",
+      "description": "googlecn2",
       "origin": "google.cn/*",
       "exclude": "",
       "methods": [],
