@@ -23,5 +23,17 @@
       "enable": true,
       "process": ""
     }
+     {
+      "description": "",
+      "origin": "google.cn/*",
+      "exclude": "",
+      "methods": [],
+      "types": [],
+      "target": "google.com/",
+      "example": "",
+      "enable": true,
+      "process": "",
+      "_originRe": {}
+    }
   ]
 }
